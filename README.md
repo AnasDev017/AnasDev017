@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="Banner of coding" width="1000" height="400" align="top"><br/><br/>
 
-<h1 align="center">Hi 👋, I'm Anas Tahir</h1>
+<h1 align="center">Hi 👋, I'm Anas Dev</h1>
 
 <h1 align="center">A passionate frontend developer from Pakistan❤️</h1>
 
