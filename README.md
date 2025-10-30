@@ -102,9 +102,11 @@
 </p>
   
 # 📊 GitHub Stats:
-<br/>
-<hr/>
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anasdev17&theme=codeSTACKr&hide_border=false" alt="anasdev17" /></p>
-<img src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Banner of coding" width="1000" height="400" align="top"><br/><br/>
-<hr/><br/>
+![](https://github-readme-stats.vercel.app/api?username=AnasDev017&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AnasDev017&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnasDev017&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=AnasDev017&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
