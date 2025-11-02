@@ -67,10 +67,6 @@
         <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="react" />
       <br>Tailwind
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
-      <br>Github
-    </td>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="react" />
       <br>Postman
