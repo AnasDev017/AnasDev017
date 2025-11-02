@@ -41,7 +41,7 @@
       <br>VsCode
     </td>
        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=typescript" width="40" height="40" alt="react" />
+        <img src="https://camo.githubusercontent.com/dd2c84af43a6c56860d910c605d51d058a28213431a42e422dcb6a62ab53d14a/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667" width="40" height="40" alt="react" />
       <br>Typescript 
     </td>
      <td align="center" width="96">
