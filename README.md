@@ -75,6 +75,10 @@
         <img src="https://skillicons.dev/icons?i=vercel" width="40" height="40" alt="react" />
       <br>Vercel
     </td>
+         <td align="center" width="96">
+        <img src="https://camo.githubusercontent.com/2b1a917053c2f8cee1fa3ee932d0fb87f4911cfad49de340a5238e9c6a0ab8a5/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656475782d69636f6e2e737667" width="40" height="40" alt="react" />
+      <br>Redux
+    </td>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="mongodb" />
       <br>Mongo DB
