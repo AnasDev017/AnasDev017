@@ -2,7 +2,7 @@
 
 <h1>Hi👋,I'm Anas Tahir</h1>
 
-<h1 align="center">A Passionate MN Developer</h1>
+<h1 align="center">A Passionate Developer</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anasdev17&label=Profile%20views&color=0e75b6&style=flat" alt="anasdev17" /> </p>
 <img src="https://media0.giphy.com/media/78XCFBGOlS6keY1Bil/200w.gif?cid=6c09b9522xx3xd2k3bnre14z117mlundpogl36iney1jrxqw&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="Banner of coding" width="300" height="300" align="right"><br/><br/>
